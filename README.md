@@ -6,8 +6,9 @@
 > game exploiting
 -------------------------------------------------------------------
 - in the future im hoping i get to learn
- HTML
- possibly malware
+ > HTML
+ 
+ > malware research
 
 ### 📫 best way to get a hold of me is my discord: Xraq#8441 or you can email me at xraq@riseup.net
 
