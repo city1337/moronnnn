@@ -1,6 +1,6 @@
 ### Hi, my names anthony but people know me as xraq or ant
 
-* some of my main interests are
+* stuff that i work with/am learning are
 > lua scripting
 
 > game exploiting
@@ -9,6 +9,7 @@
  > HTML
  
  > malware research
+ 
 
 ### 📫 best way to get a hold of me is my discord: Xraq#8441 or you can email me at xraq@riseup.net
 
