@@ -1,8 +1,8 @@
 ### Hi, my names anthony but people know me as xraq or ant
 
 - some of my main interests are
-lua scripting
-game exploiting
+* lua scripting
+* game exploiting
 -------------------------------------------------------------------
 - in the future im hoping i get to learn
  HTML
