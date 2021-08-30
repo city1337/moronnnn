@@ -11,6 +11,6 @@
  > malware research
  
 
-### 📫 best way to get a hold of me is my discord: Xraq#8441 or you can email me if people still do that at xraq@riseup.net
+### 📫 best way to get a hold of me is my discord: Xraq#0002 or you can email me if people still do that at xraq@riseup.net
 
 
