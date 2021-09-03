@@ -5,7 +5,7 @@
 
 > game exploiting
 -------------------------------------------------------------------
-- in the future im hoping i get to learn
+- in the future im interested in
  > HTML
  
  > malware research
